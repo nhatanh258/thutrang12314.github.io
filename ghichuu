@@ -1,0 +1,156 @@
+<section class="row me-0 ms-0 tong1">
+  <div class="row col-sm-9 chiacot0">
+    <div class="goal1 col-md-8 col-sm-12">
+      <h1 class="all">Goals</h1>
+      <div class="laco row">
+        <span class="icon col-sm-3">&#128681;</span>
+        <p class="text col-sm-7">
+          <b>Goal 1</b><br />
+          Hoàn thành môn lập trình web trong vòng 1 tháng
+        </p>
+      </div>
+      <div class="laco row">
+        <span class="icon col-sm-3">&#128681;</span>
+        <p class="text col-sm-7">
+          <b>Goal 2</b><br />
+          Hoàn thành môn lập trình web trong vòng 3 tháng
+        </p>
+      </div>
+      <div class="laco row">
+        <span class="icon col-sm-3">&#128681;</span>
+        <p class="text col-sm-7">
+          <b>Goal 3</b><br />
+          Hoàn thành môn lập trình trong vòng 1 năm
+        </p>
+      </div>
+    </div>
+    <div class="goal2 col-sm-4">
+      <h1 class="all">Team</h1>
+      <div class="row">
+        <span class="icon1 col-sm-2">&#127877;</span>
+        <p class="col-sm-8">
+          <b>Member 01</b><br />
+          Name: Nguyễn Thị Thuỳ Trang
+        </p>
+      </div>
+      <div class="row">
+        <span class="col-sm-2 icon1">&#127877;</span>
+        <p class="col-sm-8">
+          <b>Member 02</b><br />
+          Name: Nguyễn Thị Thuỳ Dung
+        </p>
+      </div>
+      <div class="row">
+        <span class="col-sm-2 icon1">&#127877;</span>
+        <p class="col-sm-8">
+          <b>Member 03</b><br />
+          Name: Nguyễn Nhật Anh
+        </p>
+      </div>
+      <div class="row">
+        <span class="col-sm-2 icon1">&#127877;</span>
+        <p class="col-sm-8">
+          <b>Member 04</b><br />
+          Name: Nguyễn Thị Thuỷ
+        </p>
+      </div>
+    </div>
+    <div class="goal3 col-sm-8">
+      <h1 class="all">Scopes</h1>
+      <div class="row">
+        <div class="col-sm-6">
+          <h2>IN</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+            vitae eligendi possimus omnis assumenda voluptates odio
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+            vitae eligendi possimus omnis assumenda voluptates odio
+          </p>
+        </div>
+        <div class="col-sm-6">
+          <h2>OUT</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+            vitae eligendi possimus omnis assumenda voluptates odio
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+            vitae eligendi possimus omnis assumenda voluptates odio
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="goal4 col-sm-4">
+      <h1 class="all">Primary</h1>
+      <div class="row">
+        <span class="icon2 col-sm-2">?</span>
+        <p class="col-sm-8">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit vitae
+          eligendi possimus omnis assumenda voluptates odio accusamus,
+        </p>
+      </div>
+      <div class="row">
+        <span class="icon2 col-sm-2">?</span>
+        <p class="col-sm-8">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit vitae
+          eligendi possimus omnis assumenda voluptates odio accusamus,
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3 chiacot">
+    <h1 class="all">Timeline</h1>
+    <div class="row">
+      <span class="icon3 col-sm-2">01</span>
+      <p class="canchinh col-sm-8">
+        <b>Project Start</b><br />
+        Lorem ipsum dolor, sit amet
+      </p>
+    </div>
+    <div class="row">
+      <span class="icon3 col-sm-2">02</span>
+      <p class="canchinh col-sm-8">
+        <b>Project Start</b><br />
+        Lorem ipsum dolor, sit amet
+      </p>
+    </div>
+    <div class="row">
+      <span class="icon3 col-sm-2">03</span>
+      <p class="canchinh col-sm-8">
+        <b>Project Start</b><br />
+        Lorem ipsum dolor, sit amet
+      </p>
+    </div>
+    <div class="row">
+      <span class="icon3 col-sm-2">04</span>
+      <p class="canchinh col-sm-8">
+        <b>Project Start</b><br />
+        Lorem ipsum dolor, sit amet
+      </p>
+    </div>
+    <div class="row">
+      <span class="icon3 col-sm-2">05</span>
+      <p class="canchinh col-sm-8">
+        <b>Project Start</b><br />
+        Lorem ipsum dolor, sit amet
+      </p>
+    </div>
+
+    <div class="row">
+      <span class="icon3 col-sm-2">06</span>
+      <p class="canchinh col-sm-8">
+        <b>Project Start</b><br />
+        Lorem ipsum dolor, sit amet
+      </p>
+    </div>
+    <div class="row">
+      <span class="icon3 col-sm-2">07</span>
+      <p class="canchinh col-sm-8">
+        <b>Project Start</b><br />
+        Lorem ipsum dolor, sit amet
+      </p>
+    </div>
+  </div>
+</section>
